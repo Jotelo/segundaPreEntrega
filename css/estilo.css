@@ -95,3 +95,33 @@ textarea
     margin-bottom: 10px;
 }
 
+.imagenes1 {
+
+    width: 500px;
+    display: flex 40px;
+    outline: 3px solid;
+}
+
+.imagenes2 {
+
+    width: 500px;
+    display: flex 40px;
+    outline: 3px solid;
+    
+    
+}
+.imagenes3 {
+
+   
+    width: 500px;
+    display: flex 20px;
+    outline: 3px solid;
+    
+}
+.imagenes4 {
+
+    width: 500px;
+    display: flex 20px;
+    outline: 3px solid;
+    
+}
