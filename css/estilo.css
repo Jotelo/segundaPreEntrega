@@ -58,7 +58,7 @@ footer {
     width: 700px;
     border-radius: 25px ;
     align-items: flex-end;
-    image: align-items
+   
     
 }
 
@@ -96,3 +96,9 @@ textarea
 
 }
 
+.imagenes
+
+{
+
+    text-align: center;
+}
