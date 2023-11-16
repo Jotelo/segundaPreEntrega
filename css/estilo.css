@@ -93,27 +93,5 @@ textarea
     border-radius: 5px;
     font-size: 16px;
     margin-bottom: 10px;
-
 }
 
-.imagenes {
-
-    width: 500px;
-    border-radius: 25px ;
-    align-items: flex-end;
-    align-items: center;
-    widows: initial;
-    margin-left: auto;
-    margin-right: auto;
-    } 
-
-
-    @media (max-width:1023px)
-
-
-
-    
-
-
-    
- 
